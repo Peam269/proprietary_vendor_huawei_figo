@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<HwBeautyParams>
+	<Mode name="Preview">
+	<Level1 SkinSoften="5" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level2 SkinSoften="10" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level3 SkinSoften="15" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level4 SkinSoften="20" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level5 SkinSoften="25" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level6 SkinSoften="30" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level7 SkinSoften="35" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level8 SkinSoften="40" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level9 SkinSoften="45" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	<Level10 SkinSoften="50" SkinSoftenMode="0" SkinWhiten="0" FaceSlender="0" />
+	</Mode>
+	<Mode name="Capture">
+	<Level1 SkinSoften="10" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="15" RemoveShine="0" Relighting="0" />
+	<Level2 SkinSoften="15" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="30" RemoveShine="0" Relighting="0" />
+	<Level3 SkinSoften="20" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="45" RemoveShine="0" Relighting="0" />
+	<Level4 SkinSoften="25" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="60" RemoveShine="0" Relighting="0" />
+	<Level5 SkinSoften="30" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="75" RemoveShine="0" Relighting="0" />
+	<Level6 SkinSoften="37" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="80" RemoveShine="0" Relighting="0" />
+	<Level7 SkinSoften="39" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="85" RemoveShine="0" Relighting="0" />
+	<Level8 SkinSoften="40" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="90" RemoveShine="0" Relighting="0" />
+	<Level9 SkinSoften="41" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="95" RemoveShine="0" Relighting="0" />
+	<Level10 SkinSoften="42" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" />
+	</Mode>
+	<Mode name="Dark">
+	<Level1 SkinSoften="10" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="15" RemoveShine="0" Relighting="0" />
+	<Level2 SkinSoften="15" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="30" RemoveShine="0" Relighting="0" />
+	<Level3 SkinSoften="20" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="45" RemoveShine="0" Relighting="0" />
+	<Level4 SkinSoften="25" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="60" RemoveShine="0" Relighting="0" />
+	<Level5 SkinSoften="30" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="75" RemoveShine="0" Relighting="0" />
+	<Level6 SkinSoften="37" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="80" RemoveShine="0" Relighting="0" />
+	<Level7 SkinSoften="39" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="85" RemoveShine="0" Relighting="0" />
+	<Level8 SkinSoften="40" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="90" RemoveShine="0" Relighting="0" />
+	<Level9 SkinSoften="41" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="95" RemoveShine="0" Relighting="0" />
+	<Level10 SkinSoften="42" SkinWhiten="0" SkinRuddy="0" Contrast="0" EyeBrighten="0" FaceSlender="0" EyeEnlargement="0" Depouch="0" Deblemish="100" RemoveShine="0" Relighting="0" />
+	</Mode>
+	<Mode name="GenderBeauty">
+	<GenderBeauty switcher="1" female="1" male="0.8"/>
+	</Mode>
+	<Mode name="GenderControl">
+	<Switcher SkinSoften="1" SkinWhiten="1" SkinRuddy="0" Contrast="0" EyeBrighten="1" FaceSlender="1" EyeEnlargement="1" Depouch="1" Deblemish="1" RemoveShine="0" Relighting="0" />
+	</Mode>
+</HwBeautyParams>
